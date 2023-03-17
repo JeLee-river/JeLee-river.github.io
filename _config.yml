@@ -21,7 +21,7 @@ timezone: Asia/Seoul
 
 title: Je Lee                          # the main title
 
-tagline: iT is just a blog   # it will display as the sub-title
+tagline: 개발 블로그   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
