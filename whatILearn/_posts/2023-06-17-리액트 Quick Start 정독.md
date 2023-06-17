@@ -2,7 +2,7 @@
 layout: post
 title: "공식문서 읽기: Quick Start"
 date: 2023-06-17
-categories: [What I Learn, React]
+categories: [React]
 toc: true
 toc_sticky: true
 math: true
