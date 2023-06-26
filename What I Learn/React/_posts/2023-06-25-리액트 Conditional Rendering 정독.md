@@ -25,7 +25,7 @@ mermaid: true
 
    ```JavaScript
    if (isCheck) {
-   return <li className="item">{name} ✔</li>;
+      return <li className="item">{name} ✔</li>;
    }
    return <li className="item">{name}</li>; //output이 거의 유사함.
    ```
