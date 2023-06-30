@@ -30,7 +30,7 @@ mermaid: true
    **\* [이 때, true를 체크할 값이 숫자가 되지 않도록 유의해야 한다.](https://react-ko.dev/learn/conditional-rendering)**  
     \* && 연산자는 앞의 조건이 falsy 한 값이라면, 해당 객체를 반환한다.
 
-```JavaScript
+```javascript
 ...
   return (
     <>
