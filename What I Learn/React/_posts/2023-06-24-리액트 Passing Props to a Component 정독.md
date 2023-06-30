@@ -24,15 +24,15 @@ mermaid: true
 
 3. props에도 spread 연산자를 사용할 수 있다. **그러나 이를 무분별하게 사용하고 있다면, 컴포넌트를 분리해서 JSX를 자식으로 전달해야 하는 상황이 아닌지 체크하자**
 
-   ```JavaScript
+   ```javascript
    //spread
    <Child {...props} />
    ```
 
-   ```JavaScript
+   ```javascript
    //JSX를 props로 전달
    <Parents>
-      <Child />
+     <Child />
    </Parents>
    ```
 

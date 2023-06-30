@@ -23,9 +23,9 @@ mermaid: true
 2. 직접 JSX를 분기처리하여 **유사한 output을 중복 작성하는** 방법은 코드 유지보수에 어려울 수 있다.  
     \* 코드를 작성할 때 **DRY 원칙**을 지키자!
 
-   ```JavaScript
+   ```javascript
    if (isCheck) {
-      return <li className="item">{name} ✔</li>;
+     return <li className="item">{name} ✔</li>;
    }
    return <li className="item">{name}</li>; //output이 거의 유사함.
    ```
