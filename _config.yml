@@ -200,3 +200,4 @@ jekyll-archives:
 
 #image url
 img_url: "https://blog-img-folder.s3.ap-northeast-2.amazonaws.com"
+img_url_cloudinary: "https://res.cloudinary.com/dr26wooar/image/upload"
