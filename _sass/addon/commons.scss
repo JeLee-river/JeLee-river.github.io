@@ -135,6 +135,13 @@ img {
   }
 }
 
+img + em {
+  display: block;
+  text-align: center;
+  font-size: 0.8rem;
+  color: light-grey;
+}
+
 blockquote {
   border-left: 5px solid var(--blockquote-border-color);
   padding-left: 1rem;
