@@ -23,7 +23,7 @@ title: Je Lee # the main title
 tagline: 개발 블로그 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  우리가 바람을 바꿀 수는 없지만 돛을 다르게 펼 수는 있다.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://jelee-river.github.io"
