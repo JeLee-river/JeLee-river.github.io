@@ -19,12 +19,14 @@ tail_includes:
     </span>
 
     <!-- lastmod date -->
+    <!--
     {% if page.last_modified_at %}
     <span>
       {{ site.data.locales[site.lang].post.updated }}
       {% include datetime.html date=page.last_modified_at tooltip=true %}
     </span>
     {% endif %}
+    -->
 
   {% if page.image %}
     {% capture src %}src="{{ page.image.path | default: page.image }}"{% endcapture %}
@@ -80,7 +82,9 @@ tail_includes:
       {% endif %}
 
       <!-- read time -->
+      <!--
       {% include read-time.html content=content prompt=true %}
+      -->
     </div>
 
   </div> <!-- .d-flex -->
